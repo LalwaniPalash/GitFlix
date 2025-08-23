@@ -1,0 +1,35 @@
+# Executables
+create_600_frame_demo
+git-vid-convert
+git-vid-demo
+git-vid-encode
+git-vid-play
+git-vid-play-metal
+
+# Object files
+*.o
+*.obj
+
+# Compiled binaries
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# macOS specific
+.DS_Store
+
+# Build directories
+build/
+dist/
+
+# Demo video directory
+demo_video/
+
+# Video files
+in.mp4
