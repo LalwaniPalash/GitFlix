@@ -3,7 +3,7 @@
 <div align="center">
   <img src="demo.gif" alt="Demo">
   
-  <a href="https://twitter.com/LalwaniPalash" target="_blank">
+  <a href="https://twitter.com/PalashBuilds" target="_blank">
     <img src="https://img.shields.io/twitter/follow/PalashBuilds?style=social" alt="Follow on X">
   </a>
 </div>
