@@ -1,5 +1,13 @@
 # GitFlix  
-![Demo](demo.gif)
+
+<div align="center">
+  <img src="demo.gif" alt="Demo">
+  
+  <a href="https://twitter.com/LalwaniPalash" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/PalashBuilds?style=social" alt="Follow on X">
+  </a>
+</div>
+
 
 Store every frame of a 1080 p60 video inside a Git repository, then stream it back at **60 fps** with a single command.
 
@@ -22,7 +30,7 @@ make metal                    # build the Metal player
 ./git-vid-play-metal demo_video   # play the bundled demo
 ```
 
-That’s it—no FFmpeg, no LFS, no external blobs.  
+That’s it, no LFS, no external blobs.  
 Every pixel is a Git object; every commit is a frame.
 
 ---
